@@ -114,7 +114,7 @@ foreach ($planners as $plan) {
     <div class="flex gap-4">
       <a href="dashboard.php" class="bg-purple-600 hover:bg-purple-700 text-white px-4 py-2 rounded-md text-sm">Dashboard</a>
       <a href="delete_account.php" class="bg-red-600 hover:bg-red-700 text-white px-4 py-2 rounded-md text-sm">Delete Account</a>
-      <a href="logout.php" class="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-md text-sm">Logout</a>
+      <a href="logout.php" class="   text-white px-4 py-2 rounded-md text-sm">Logout</a>
     </div>
   </div>
 </header>

@@ -1,9 +1,9 @@
 <?php
 // db.php
-$host = 'localhost';  // Change if your database is hosted somewhere else
-$dbname = 'fitflow'; // Replace with your database name 
-$username = 'root'; // Replace with your database username
-$password = ''; // Replace with your database password
+$host = '127.0.0.1';  
+$dbname = 'fitflow'; 
+$username = 'root'; 
+$password = '';
 
 try {
     // Create a PDO instance
